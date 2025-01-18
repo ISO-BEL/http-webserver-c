@@ -1,0 +1,7 @@
+0001: Ultimate SO_LINGER page	: <https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable>
+0002: ABNF RFC					: <https://www.rfc-editor.org/rfc/rfc5234>
+0003: HTTP RFC (9110)			: <https://www.rfc-editor.org/rfc/rfc9110.html>
+0004: HTTP/1.1	RFC				: <https://www.rfc-editor.org/rfc/rfc9112.html#name-method>
+0005: Beej Networking Guide		: <https://beej.us/guide/bgnet/>
+0006: UNIX Network Programming Volume 1, Third Edition
+0007: Socket Return Codes		: <https://www.microfocus.com/documentation/server-enterprise-edition/serveree60sp2ws2/Server%20EE%2060%20SP2%20WS2%20UNIX=1=Web%20Help%202016%20(MF)=en/GUID-1872DF9A-0FE4-4093-9A1B-B743BFDDDBA1.html>
