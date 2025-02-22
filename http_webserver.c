@@ -31,7 +31,6 @@ int directory_compare(const char *string, const char *dstring);
 void get_current_time(char *formated_return);
 off_t get_last_modified(char *file_name, char *formated_return);
 int load_headers(char *send_buffer, char *file_name);
-int distance_last_occurence(const char *dstring, int c);
 void send_all(int connfd, char *send_buffer);
 void not_found(int connfd, char *send_buffer);
 void bad_request(int connfd, char *send_buffer);
